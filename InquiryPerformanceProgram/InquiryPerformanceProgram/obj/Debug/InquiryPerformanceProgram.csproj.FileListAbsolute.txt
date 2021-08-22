@@ -1,0 +1,111 @@
+C:\Users\kzkju\source\repos\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\InquiryPerformanceProgram.exe.config
+C:\Users\kzkju\source\repos\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\InquiryPerformanceProgram.exe
+C:\Users\kzkju\source\repos\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\InquiryPerformanceProgram.pdb
+C:\Users\kzkju\source\repos\InquiryPerformanceProgram\InquiryPerformanceProgram\obj\Debug\InquiryPerformanceProgram.csprojAssemblyReference.cache
+C:\Users\kzkju\source\repos\InquiryPerformanceProgram\InquiryPerformanceProgram\obj\Debug\InquiryPerformanceProgram.Form1.resources
+C:\Users\kzkju\source\repos\InquiryPerformanceProgram\InquiryPerformanceProgram\obj\Debug\InquiryPerformanceProgram.Properties.Resources.resources
+C:\Users\kzkju\source\repos\InquiryPerformanceProgram\InquiryPerformanceProgram\obj\Debug\InquiryPerformanceProgram.csproj.GenerateResource.cache
+C:\Users\kzkju\source\repos\InquiryPerformanceProgram\InquiryPerformanceProgram\obj\Debug\InquiryPerformanceProgram.csproj.CoreCompileInputs.cache
+C:\Users\kzkju\source\repos\InquiryPerformanceProgram\InquiryPerformanceProgram\obj\Debug\InquiryPerformanceProgram.exe
+C:\Users\kzkju\source\repos\InquiryPerformanceProgram\InquiryPerformanceProgram\obj\Debug\InquiryPerformanceProgram.pdb
+C:\Users\kzkju\source\repos\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\MySql.Data.dll
+C:\Users\kzkju\source\repos\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\Google.Protobuf.dll
+C:\Users\kzkju\source\repos\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\Zstandard.Net.dll
+C:\Users\kzkju\source\repos\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\kzkju\source\repos\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kzkju\source\repos\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\kzkju\source\repos\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\Renci.SshNet.dll
+C:\Users\kzkju\source\repos\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\System.Memory.dll
+C:\Users\kzkju\source\repos\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\System.Buffers.dll
+C:\Users\kzkju\source\repos\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\kzkju\source\repos\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\kzkju\source\repos\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kzkju\source\repos\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kzkju\source\repos\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\MySql.Data.xml
+C:\Users\kzkju\source\repos\InquiryPerformanceProgram\InquiryPerformanceProgram\obj\Debug\InquiryPerformanceProgram.exe.config
+C:\Users\kzkju\source\repos\InquiryPerformanceProgram\InquiryPerformanceProgram\obj\Debug\InquiryPerformanceProgram.SignForm.resources
+C:\Users\kzkju\source\repos\InquiryPerformanceProgram\InquiryPerformanceProgram\obj\Debug\InquiryPerformanceProgram.csproj.CopyComplete
+C:\Users\kzkju\source\repos\InquiryPerformanceProgram\InquiryPerformanceProgram\obj\Debug\InquiryPerformanceProgram.SelectForm.resources
+C:\Users\kzkju\Desktop\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\InquiryPerformanceProgram.exe.config
+C:\Users\kzkju\Desktop\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\InquiryPerformanceProgram.exe
+C:\Users\kzkju\Desktop\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\InquiryPerformanceProgram.pdb
+C:\Users\kzkju\Desktop\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\MySql.Data.dll
+C:\Users\kzkju\Desktop\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\Google.Protobuf.dll
+C:\Users\kzkju\Desktop\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\Zstandard.Net.dll
+C:\Users\kzkju\Desktop\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\kzkju\Desktop\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kzkju\Desktop\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\kzkju\Desktop\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\Renci.SshNet.dll
+C:\Users\kzkju\Desktop\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\System.Memory.dll
+C:\Users\kzkju\Desktop\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\System.Buffers.dll
+C:\Users\kzkju\Desktop\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\kzkju\Desktop\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\kzkju\Desktop\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kzkju\Desktop\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kzkju\Desktop\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\MySql.Data.xml
+C:\Users\kzkju\Desktop\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\obj\Debug\InquiryPerformanceProgram.csprojAssemblyReference.cache
+C:\Users\kzkju\Desktop\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\obj\Debug\InquiryPerformanceProgram.exe.config
+C:\Users\kzkju\Desktop\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\obj\Debug\InquiryPerformanceProgram.Form1.resources
+C:\Users\kzkju\Desktop\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\obj\Debug\InquiryPerformanceProgram.Properties.Resources.resources
+C:\Users\kzkju\Desktop\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\obj\Debug\InquiryPerformanceProgram.SelectForm.resources
+C:\Users\kzkju\Desktop\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\obj\Debug\InquiryPerformanceProgram.SignForm.resources
+C:\Users\kzkju\Desktop\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\obj\Debug\InquiryPerformanceProgram.csproj.GenerateResource.cache
+C:\Users\kzkju\Desktop\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\obj\Debug\InquiryPerformanceProgram.csproj.CoreCompileInputs.cache
+C:\Users\kzkju\Desktop\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\obj\Debug\InquiryPerformanceProgram.csproj.CopyComplete
+C:\Users\kzkju\Desktop\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\obj\Debug\InquiryPerformanceProgram.exe
+C:\Users\kzkju\Desktop\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\obj\Debug\InquiryPerformanceProgram.pdb
+C:\Users\kzkju\개인문서\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\InquiryPerformanceProgram.exe.config
+C:\Users\kzkju\개인문서\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\InquiryPerformanceProgram.exe
+C:\Users\kzkju\개인문서\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\InquiryPerformanceProgram.pdb
+C:\Users\kzkju\개인문서\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\MySql.Data.dll
+C:\Users\kzkju\개인문서\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\Google.Protobuf.dll
+C:\Users\kzkju\개인문서\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\Zstandard.Net.dll
+C:\Users\kzkju\개인문서\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\kzkju\개인문서\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kzkju\개인문서\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\kzkju\개인문서\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\Renci.SshNet.dll
+C:\Users\kzkju\개인문서\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\System.Memory.dll
+C:\Users\kzkju\개인문서\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\System.Buffers.dll
+C:\Users\kzkju\개인문서\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\kzkju\개인문서\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\kzkju\개인문서\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kzkju\개인문서\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kzkju\개인문서\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\MySql.Data.xml
+C:\Users\kzkju\개인문서\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\obj\Debug\InquiryPerformanceProgram.csprojAssemblyReference.cache
+C:\Users\kzkju\개인문서\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\obj\Debug\InquiryPerformanceProgram.exe.config
+C:\Users\kzkju\개인문서\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\obj\Debug\InquiryPerformanceProgram.Form1.resources
+C:\Users\kzkju\개인문서\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\obj\Debug\InquiryPerformanceProgram.Properties.Resources.resources
+C:\Users\kzkju\개인문서\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\obj\Debug\InquiryPerformanceProgram.SelectForm.resources
+C:\Users\kzkju\개인문서\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\obj\Debug\InquiryPerformanceProgram.SignForm.resources
+C:\Users\kzkju\개인문서\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\obj\Debug\InquiryPerformanceProgram.csproj.GenerateResource.cache
+C:\Users\kzkju\개인문서\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\obj\Debug\InquiryPerformanceProgram.csproj.CoreCompileInputs.cache
+C:\Users\kzkju\개인문서\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\obj\Debug\InquiryPerformanceProgram.csproj.CopyComplete
+C:\Users\kzkju\개인문서\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\obj\Debug\InquiryPerformanceProgram.exe
+C:\Users\kzkju\개인문서\포토폴리오\지역별 거래실적 조회 프로그램(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\obj\Debug\InquiryPerformanceProgram.pdb
+D:\PrivateDocuments\Photopolio\LocalDualSearchProject(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\InquiryPerformanceProgram.exe.config
+D:\PrivateDocuments\Photopolio\LocalDualSearchProject(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\InquiryPerformanceProgram.exe
+D:\PrivateDocuments\Photopolio\LocalDualSearchProject(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\InquiryPerformanceProgram.pdb
+D:\PrivateDocuments\Photopolio\LocalDualSearchProject(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\Google.Protobuf.dll
+D:\PrivateDocuments\Photopolio\LocalDualSearchProject(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\Zstandard.Net.dll
+D:\PrivateDocuments\Photopolio\LocalDualSearchProject(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\PrivateDocuments\Photopolio\LocalDualSearchProject(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\BouncyCastle.Crypto.dll
+D:\PrivateDocuments\Photopolio\LocalDualSearchProject(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\Ubiety.Dns.Core.dll
+D:\PrivateDocuments\Photopolio\LocalDualSearchProject(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\Renci.SshNet.dll
+D:\PrivateDocuments\Photopolio\LocalDualSearchProject(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\System.Memory.dll
+D:\PrivateDocuments\Photopolio\LocalDualSearchProject(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\System.Buffers.dll
+D:\PrivateDocuments\Photopolio\LocalDualSearchProject(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\K4os.Compression.LZ4.dll
+D:\PrivateDocuments\Photopolio\LocalDualSearchProject(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\K4os.Hash.xxHash.dll
+D:\PrivateDocuments\Photopolio\LocalDualSearchProject(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\System.Numerics.Vectors.dll
+D:\PrivateDocuments\Photopolio\LocalDualSearchProject(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\PrivateDocuments\Photopolio\LocalDualSearchProject(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\bin\Debug\MySql.Data.xml
+D:\PrivateDocuments\Photopolio\LocalDualSearchProject(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\obj\Debug\InquiryPerformanceProgram.csprojAssemblyReference.cache
+D:\PrivateDocuments\Photopolio\LocalDualSearchProject(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\obj\Debug\InquiryPerformanceProgram.exe.config
+D:\PrivateDocuments\Photopolio\LocalDualSearchProject(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\obj\Debug\InquiryPerformanceProgram.Form1.resources
+D:\PrivateDocuments\Photopolio\LocalDualSearchProject(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\obj\Debug\InquiryPerformanceProgram.Properties.Resources.resources
+D:\PrivateDocuments\Photopolio\LocalDualSearchProject(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\obj\Debug\InquiryPerformanceProgram.SelectForm.resources
+D:\PrivateDocuments\Photopolio\LocalDualSearchProject(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\obj\Debug\InquiryPerformanceProgram.SignForm.resources
+D:\PrivateDocuments\Photopolio\LocalDualSearchProject(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\obj\Debug\InquiryPerformanceProgram.csproj.GenerateResource.cache
+D:\PrivateDocuments\Photopolio\LocalDualSearchProject(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\obj\Debug\InquiryPerformanceProgram.csproj.CoreCompileInputs.cache
+D:\PrivateDocuments\Photopolio\LocalDualSearchProject(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\obj\Debug\InquiryPerformanceProgram.csproj.CopyComplete
+D:\PrivateDocuments\Photopolio\LocalDualSearchProject(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\obj\Debug\InquiryPerformanceProgram.exe
+D:\PrivateDocuments\Photopolio\LocalDualSearchProject(C#)\Score_Project\InquiryPerformanceProgram\InquiryPerformanceProgram\obj\Debug\InquiryPerformanceProgram.pdb
